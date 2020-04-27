@@ -1,11 +1,7 @@
-[
-  {
-    "name": "salata"
-  },
-  {
-    "name": "ciocolata"
-  },
-  {
-    "name": "pui"
-  }
-]
+{
+  "itemsuggestion": [
+    {"name": "salata"},
+    {"name": "ciocolata"},
+    {"name": "pui"}
+  ]
+}
