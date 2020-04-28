@@ -1,7 +1,10 @@
 {
   "categorysuggestion": [
-    {"name": "salata"},
-    {"name": "ciocolata"},
-    {"name": "pui"}
+    { "id": 1,
+      "name": "carne"},
+    { "id": 2,
+      "name": "legume"},
+    { "id": 3,
+      "name": "fructe"}
   ]
 }
